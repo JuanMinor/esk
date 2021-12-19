@@ -1,3 +1,2 @@
 ﻿  playground.cpp
-D:\dev\esk\Playground\src\playground.cpp(9,17): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Playground.vcxproj -> D:\dev\esk\Esk\bin\Debug\x64\Playground\Playground.exe

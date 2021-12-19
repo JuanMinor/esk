@@ -1,13 +1,23 @@
 
-namespace Esk {
+#include <esk.h>
 
-	__declspec(dllimport) void Print();
+class Playground : public Esk::Application {
 
-}
+public:
+
+	Playground() {
+
+	}
+
+	~Playground() {
+
+	}
+
+};
 
 
-void main(void) {
+Esk::Application* Esk::createApplication(void) {
 
-	Esk::Print();
+	return new Playground();
 
 }
