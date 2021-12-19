@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Esk", "Esk\Esk.vcxproj", "{1AE06ACC-AE1C-41FA-BD47-C6DF7C1E0764}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Playground", "..\Playground\Playground.vcxproj", "{8FD8F067-254D-44C7-BEF9-9347F9EC6571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE06ACC-AE1C-41FA-BD47-C6DF7C1E0764}.Debug|x64.ActiveCfg = Debug|x64
+		{1AE06ACC-AE1C-41FA-BD47-C6DF7C1E0764}.Debug|x64.Build.0 = Debug|x64
+		{1AE06ACC-AE1C-41FA-BD47-C6DF7C1E0764}.Release|x64.ActiveCfg = Release|x64
+		{1AE06ACC-AE1C-41FA-BD47-C6DF7C1E0764}.Release|x64.Build.0 = Release|x64
+		{8FD8F067-254D-44C7-BEF9-9347F9EC6571}.Debug|x64.ActiveCfg = Debug|x64
+		{8FD8F067-254D-44C7-BEF9-9347F9EC6571}.Debug|x64.Build.0 = Debug|x64
+		{8FD8F067-254D-44C7-BEF9-9347F9EC6571}.Release|x64.ActiveCfg = Release|x64
+		{8FD8F067-254D-44C7-BEF9-9347F9EC6571}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ACA85A9-2549-4475-8231-161F31F76D62}
+	EndGlobalSection
+EndGlobal
