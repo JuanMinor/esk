@@ -7,7 +7,7 @@
 
 #define HOST_ESK_H
 
-#include "esk/application.h"
+#include "esk/application/application.h"
 
-#include "esk/entryPoint.h"  // ESK application entry point
+#include "esk/application/entryPoint.h"  // ESK application entry point
 #endif

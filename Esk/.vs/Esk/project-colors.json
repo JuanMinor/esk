@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ae06acc-ae1c-41fa-bd47-c6df7c1e0764": {
+      "ProjectGuid": "1ae06acc-ae1c-41fa-bd47-c6df7c1e0764",
+      "DisplayName": "Esk",
+      "ColorIndex": 0
+    },
+    "8fd8f067-254d-44c7-bef9-9347f9ec6571": {
+      "ProjectGuid": "8fd8f067-254d-44c7-bef9-9347f9ec6571",
+      "DisplayName": "Playground",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

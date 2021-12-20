@@ -9,7 +9,7 @@
 
 #define  APPLICATION_ENTRY_POINT_H
 
-#include "core/core.h"
+#include "../core/core.h"
 
 namespace Esk {
 

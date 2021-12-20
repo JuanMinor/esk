@@ -12,12 +12,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="source\esk.h" />
-    <ClInclude Include="source\esk\application.h" />
+    <ClInclude Include="source\esk\application\application.h" />
     <ClInclude Include="source\esk\core\core.h" />
-    <ClInclude Include="source\esk\entryPoint.h" />
+    <ClInclude Include="source\esk\application\entryPoint.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source\esk\application.cpp" />
+    <ClCompile Include="source\esk\application\application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

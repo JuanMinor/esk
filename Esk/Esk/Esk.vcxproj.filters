@@ -18,18 +18,18 @@
     <ClInclude Include="source\esk\core\core.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="source\esk\application.h">
+    <ClInclude Include="source\esk\application\application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="source\esk.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="source\esk\entryPoint.h">
+    <ClInclude Include="source\esk\application\entryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="source\esk\application.cpp">
+    <ClCompile Include="source\esk\application\application.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
